@@ -1,1 +1,2 @@
-# Single trial estimation for neuroimaging
+# nitrial
+Single trial estimation for fMRI multivariate pattern analysis
